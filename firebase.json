@@ -1,4 +1,5 @@
 {
+  port=5002 -- hosting only -- servefirebase
   "hosting": {
     "public": "public",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
